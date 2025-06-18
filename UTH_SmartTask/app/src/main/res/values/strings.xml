@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UTH SmartTask</string>
+    <string name="welcome">Welcome</string>
+    <string name="welcome_subtitle">Ready to explore? Log in to get started.</string>
+    <string name="sign_in_with_google">SIGN IN WITH GOOGLE</string>
+    <string name="copyright">© UTHSmartTasks</string>
+    <string name="profile">Profile</string>
+    <string name="back">Back</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="app_subtitle">A simple and efficient to-do app</string>
+    <string name="default_web_client_id">1082030449354-YOUR_CLIENT_ID.apps.googleusercontent.com</string>
+</resources>
